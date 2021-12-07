@@ -3,13 +3,9 @@
 
 Prerequisites:
 
-1. Liquibase
-   You must have liquibase installed in your system 
+1. You must have Liquibase and MySQL installed in your system 
 
-2. MySQL
-   You must have mySql installed in your system
-
-3. Download the mySql Connector jar 
+2. Download the mySql Connector jar 
 
 Steps to run the project
 
