@@ -9,7 +9,7 @@ It a is simple example of the liquibase project with MySQL. Liquibase allows us 
 
 1. You must have Liquibase and MySQL installed in your system 
 
-2. Download the mySql Connector jar 
+2. Download the MySQL Connector jar file
 
 
 **Steps to run the project**
