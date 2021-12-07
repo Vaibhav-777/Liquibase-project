@@ -1,13 +1,13 @@
 # Liquibase-project
-```Description: It is simple example of the liquibase project with MySQL. Liquibase allows us to track, version and apply the changes to the database schemas. Liquibase provides an alternative for the manual queries in mysql console ```
+```Description: It a is simple example of the liquibase project with MySQL. Liquibase allows us to track, version and apply the changes to the database schemas. Liquibase provides an alternative for the manual queries in mysql console ```
 
 Prerequisites:
 
 1. Liquibase
-   ```You must have liquibase installed in your system ```
+   You must have liquibase installed in your system 
 
 2. MySQL
-   ```You must have mySql installed in your system```
+   You must have mySql installed in your system
 
 3. Download the mySql Connector jar 
 
